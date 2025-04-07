@@ -1,0 +1,8 @@
+pymupdf
+langchain
+chromadb
+sentence-transformers
+langchain-community
+pdfplumber
+pandas 
+tabulate
